@@ -1,4 +1,4 @@
-# Mini Vitrine de Produtos com Next.js
+# Vitrine de Produtos com Next.js
 
 Este projeto é uma mini vitrine de produtos desenvolvida com Next.js que consome dados da Fake Store API. A aplicação apresenta uma lista de produtos na página inicial e uma página de detalhes para cada produto.
 
